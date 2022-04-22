@@ -1,0 +1,20 @@
+--- CLIENT ---
+
+- GUI (OK)
+- rozstawianie statków (OK)
+- zapis pozycji statków oraz pól obrzeżnych do macierzy (OK)
+- nawiązanie połączenia z serwerem (OK)
+- logowanie i wylogowywanie (OK)
+- wybór pokoju (OK)
+- sprawdzanie ilości osób w pokoju (OK)
+- sprawdzanie czy nick gracza nie jest zajęty (OK)
+- wylogowanie wszystkich osób po wyłączeniu serwera (OK)
+- komunikacja player to server (OK)
+- obsługa wyjątków (OK)
+
+- możliwość przesuwania postawionych statków (-)
+- komunikacja player to player (-)
+- stworzenie głónego okna rozdzielającego grę (-)
+- poprawić okna dialogowe informujące np. o błędzie serwera itp (-)
+- poprawienie błędu, w momencie wyłączenie serwera brak możliwości wyjścia z pokoju (-)
+- wstępne testy(-)
